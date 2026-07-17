@@ -43,7 +43,6 @@ An end-to-end RAG system built to close a PySpark skills gap for Transaction Fra
 ## 💼 Professional Experience
 
 **Assistant Vice President II — Transaction Fraud** · Synchrony, Hyderabad · *Apr 2025 – Present*
-- Solutions architect for the Automated Modelling Pipeline.
 - Oversee vendor model validation and performance reporting for existing production models.
 - Drive GenAI adoption by showcasing AI use cases to senior leadership.
 
