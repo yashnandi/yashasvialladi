@@ -42,15 +42,15 @@ An end-to-end RAG system built to close a PySpark skills gap for Transaction Fra
 
 ## 💼 Professional Experience
 
-**Assistant Vice President II — Transaction Fraud** · Synchrony, Hyderabad · *Apr 2025 – Present*
+**Assistant Vice President II — Credit Model Development (Transaction Fraud)** · Synchrony, Hyderabad · *Apr 2025 – Present*
 - Oversee vendor model validation and performance reporting for existing production models.
 - Drive GenAI adoption by showcasing AI use cases to senior leadership.
 
-**Assistant Vice President** · Synchrony, Hyderabad · *Dec 2022 – Mar 2025*
+**Assistant Vice President - Credit Model Development** · Synchrony, Hyderabad · *Dec 2022 – Mar 2025*
 - Led migration of the SAS codebase to PySpark, including full replication of Adverse Action generation logic for Acquisition Credit models.
 - Built an alternative Acquisition Credit model using U.S. bureau attributes to benchmark against an existing production ML model.
 
-**Manager — Credit Risk Modelling** · Synchrony, Hyderabad · *Jan 2022 – Dec 2022*
+**Manager — Credit Models** · Synchrony, Hyderabad · *Jan 2022 – Dec 2022*
 - Built a Bankruptcy Model (KGB/AGB) for acquisition credit, used in customer onboarding to filter high-risk applicants.
 - Prepared data in SAS/PySpark from 4,000+ bureau attributes, reducing to 100 via Gradient Boosting and stepwise regression.
 - Achieved a KS of 0.50 on out-of-time test data — a significant lift over prior bureau-based models.
